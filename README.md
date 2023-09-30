@@ -34,7 +34,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 
 
-### Support the Obsesiones
+<b> Support the Obsesiones </b>
 
 <a href="https://www.buymeacoffee.com/drixitel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/></a>
 
