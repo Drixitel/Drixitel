@@ -21,7 +21,9 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 <a href="http://www.github.com/Drixitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
+[![Drixitels GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
+
+
 
 <b>Top Repositories</b>
 
@@ -30,7 +32,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 <div width="100%" align="center"><a href="https://github.com/Drixitel/Work-Bench" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Work-Bench&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Drixitel/Scientific-Computing" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Scientific-Computing&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ### Support the Obsesiones
 
 <a href="https://www.buymeacoffee.com/drixitel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/></a>
