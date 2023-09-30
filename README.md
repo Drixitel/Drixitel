@@ -19,9 +19,12 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 <b>My GitHub Stats</b>
 
+[![Drixitels GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
+
+
 <a href="http://www.github.com/Drixitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Drixitels GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
+
 
 
 
