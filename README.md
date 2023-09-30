@@ -30,9 +30,9 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Drixitel/Iris-Adafruit-GPS" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" /></a></div>  
+<div width="100%" align="left"><a href="https://github.com/Drixitel/Iris-Adafruit-GPS" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" /></a></div>  
 
 <b> Support the Obsesiones </b>
-<div width="100%" align="center"><a href="https://www.buymeacoffee.com/drixitel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/></a></div>
+<div width="100%" align="left"><a href="https://www.buymeacoffee.com/drixitel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/></a></div>
 
 
