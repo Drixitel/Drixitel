@@ -22,7 +22,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 [![Drixitels GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
 
 
-<a href="http://www.github.com/Drixitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Drixitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&theme=dracula&hide_border=false" /></a>
 
 
 
@@ -30,7 +30,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Drixitel/Iris-Adafruit-GPS" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Drixitel/Iris-Adafruit-GPS" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" /></a></div>
 
 
 
