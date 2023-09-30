@@ -1,4 +1,4 @@
-Hi My name is Michelle \
+Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bird.svg"> My name is Michelle \
 🌍  I'm based in Cali \
 🖥️  See my portfolio at [My Blog!](http://www.michelle-pichardo.com/)\
 ✉️  You can contact me at: drixitel @ gmail dot com\
