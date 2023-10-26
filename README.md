@@ -2,7 +2,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 🌍  I'm based in Cali \
 🖥️  See my portfolio at [My Blog!](http://www.michelle-pichardo.com/)\
 ✉️  You can contact me at: drixitel @ gmail dot com\
-🧠  I'm learning Condensed Matter Theory, Simulation, and Memory Efficient Programming\
+🧠  I'm learning sensor software design, simulation, and memory efficient programming\
 🤝  I'm open to collaborating on just about anything.\
 ⚡  Like to draw?
 
