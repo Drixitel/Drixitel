@@ -25,7 +25,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 <a href="http://www.github.com/Drixitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&theme=dracula&hide_border=false" /></a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drixitel&hide=jupyter%20notebook&theme=dracula&layout=compact)](https://github.com/Drixitel/github-readme-stats)
 
 
 <b>Top Repositories</b>
