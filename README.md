@@ -29,10 +29,11 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
   <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
 </div>
 
-<b>Top Repo</b>
+<b>Top Repos</b>
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" style="flex: 1; height: 120px;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=134-Lab-Spring-2023&theme=dracula&hide_border=false&locale=en" style="flex: 1; height: 120px;" />
 </div>
 
 
