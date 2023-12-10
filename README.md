@@ -3,8 +3,7 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 🖥️  See my portfolio at [My Blog!](http://www.michelle-pichardo.com/)\
 ✉️  You can contact me at: drixitel @ gmail dot com\
 🧠  I'm learning sensor software design, simulation, and memory efficient programming\
-🤝  I'm open to collaborating on just about anything.\
-⚡  Like to draw?
+🤝  I'm open to collaborating 
 
 ### Skills
 
@@ -17,7 +16,62 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 
 ### Badges
 
-<b>My GitHub Stats</b>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drixitel&hide=jupyter%20notebook&theme=dracula&layout=compact" style="flex: 1; height: 160px;" />
+</div>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&theme=dracula&hide_border=false" style="flex: 1; height: 160px; " />
+</div>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
+</div>
+
+<b>Top Repo</b>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" style="flex: 1; height: 120px;" />
+</div>
+
+
+<b> Support the Obsesiones </b>
+
+<div align="left">
+  <a href="https://www.buymeacoffee.com/drixitel">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</div>
+
+
+<!--
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drixitel&hide=jupyter%20notebook&theme=dracula&layout=compact" style="flex: 1; height: 160px;" />
+</div>
+
+
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&theme=dracula&hide_border=false" style="flex: 1; height: 150px; " />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drixitel&repo=Iris-Adafruit-GPS&theme=dracula&hide_border=false&locale=en" style="flex: 1; height: 150px;" />
+</div>
+
+
+
+<div align="left">
+  <a href="https://www.buymeacoffee.com/drixitel">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/>
+  </a>
+</div>
+-->
+
+
+
+
+<!--
+### Badges
 
 [![Drixitels GitHub stats](https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Drixitel/github-readme-stats#gh-dark-mode-only)
 
@@ -35,4 +89,4 @@ Hi <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bir
 <b> Support the Obsesiones </b>
 <div width="100%" align="left"><a href="https://www.buymeacoffee.com/drixitel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/></a></div>
 
-
+-->
