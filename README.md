@@ -1,19 +1,22 @@
 <!-- Henlo <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bird.svg"> -->
-<!--
+
 ## Introduction 
 
+
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=C14EB5&center=true&vCenter=true&random=false&width=700&height=45&vCenter=true&size=25&lines=2+%2B+years+of+analysis+experience+;Developed+microcontroller+software;4+%2B+years+of+coding+experience)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=C14EB5&center=true&random=false&width=700&height=45&vCenter=true&size=25&lines=3+%2B+years+of+analysis+experience+;Developed+microcontroller+software;4+%2B+years+of+coding+experience;Tool+collector)"/>
 </p>
 
 
-<h3 align="center">Hey there, I'm Drixitel or Drixit for short (^-^) </h3>
+<h3 align="center">I'm Drixitel or Drixit for short (^-^) </h3>
 
 <p align="center">
-  <a href="https://www.michelle-pichardo.com/"><img alt="website" title="website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/></a>
   <a href="https://www.buymeacoffee.com/drixitel"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
--->
+
+## Profile Views
+
+
 
 ### Skills
 
