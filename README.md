@@ -1,10 +1,11 @@
 <!-- Henlo <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bird.svg"> -->
 
+
 ## Introduction 
 
 
   <p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=C14EB5&center=true&random=false&width=700&height=45&vCenter=true&size=25&lines=Developed+microcontroller+software;3+%2B+years+of+analysis+experience+;4+%2B+years+of+coding+experience"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=C14EB5&center=true&random=false&width=700&height=45&vCenter=true&size=25&lines=>+Developed+microcontroller+software;>+3+%2B+years+of+analysis+experience+;>+4+%2B+years+of+coding+experience"/>
   </p>
   
   
