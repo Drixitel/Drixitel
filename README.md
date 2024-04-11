@@ -40,14 +40,24 @@
 -->
 
 ## The Agenda 
+
+
 - ⏱️ Learning to speed up IO on SAMD21
 - 🌟 Editing my personal website
 - 🌔 Tinkering with AI/ML
 
 ### Apoya las obsesiones 🤍
 
+
   <p align="left">
     <a href="https://www.buymeacoffee.com/drixitel"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  </p>
+
+#### Layout Inspo
+
+
+  <p align="left">
+    <a href="https://github.com/Thinkright20/Thinkright20/blob/main/README.md"> <img src="https://img.shields.io/badge/Thinkright20-F?style=flat-square&logo=github&color=purple"></a>
   </p>
 
 
