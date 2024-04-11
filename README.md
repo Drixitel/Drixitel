@@ -66,6 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
 </div>
 
+<!--
 ## Repositories
 
   <table>
@@ -92,6 +93,6 @@
          <a href="https://github.com/Drixitel/Zeeman-Lab"> <img src="https://img.shields.io/badge/Personal-Zeeman_lab-FSD?style=for-the-badge&logo=github&color=blue"> </a>
       </td>
   </table>
-
+-->
 
 
