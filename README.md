@@ -1,7 +1,7 @@
 <!-- Henlo <img width="60" alt="LaTeX logo" src="https://www.svgrepo.com/show/530309/bird.svg"> -->
 
 
-## Introduction 
+## Bienvenidos 
 
 
   <p align="center"> 
@@ -12,7 +12,7 @@
   <h3 align="center">I'm <a href="https://www.michelle-pichardo.com/">Drixitel</a> or Drixit for short (^-^) </h3>
   
 
-## Profile Views
+## Who was here?
 
 
   <table>
