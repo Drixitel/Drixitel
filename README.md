@@ -13,20 +13,6 @@
   <h3 align="center">I'm <a href="https://www.michelle-pichardo.com/">Drixitel</a> or Drixit for short (^-^) </h3>
   
 
-## Who was here?
-
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/Drixitel"> <img src="https://komarev.com/ghpvc/?username=Drixitel&style=for-the-badge&color=blueviolet"> </a>
-      </td>
-    </tr>
-  </table>
 
 
 ## Languages & Tools
@@ -71,6 +57,22 @@
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
 </div>
+
+
+## Who was here?
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/Drixitel"> <img src="https://komarev.com/ghpvc/?username=Drixitel&style=for-the-badge&color=blueviolet"> </a>
+      </td>
+    </tr>
+  </table>
 
 <!--
 ## Repositories
