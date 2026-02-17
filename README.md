@@ -29,8 +29,6 @@
 
 ## The Agenda 
 
-
-- ⏱️ Learning to speed up IO on SAMD21
 - 🌟 Editing my personal website
 - 🌔 Tinkering with AI/ML
 
@@ -43,12 +41,13 @@
 
 
 
-## My Stats & Activity
+<!-- ## My Stats & Activity -->
 
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drixitel&hide=jupyter%20notebook&theme=dracula&layout=compact&langs_count=10" style="flex: 1; height: 160px;" />
 </div>
+
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drixitel&theme=dracula&hide_border=false" style="flex: 1; height: 160px; " />
@@ -56,7 +55,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=Drixitel&custom_title=Drixitel's-GitHub-Stats&rank_icon=github&hide=contribs,prs&show_icons=true&theme=dracula#gh-dark-mode-only" style="flex: 1; height: 160px;" />
-</div>
+</div> -->
 
 
 ## Who was here?
