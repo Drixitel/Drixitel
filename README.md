@@ -39,17 +39,14 @@
   </tr>
 </table>
 
-### Apoya las obsesiones 🤍
-
-<p align="left">
-    <a href="https://www.buymeacoffee.com/drixitel"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
 
 
 ---
 
+
 <p align="right">
-  <a href="https://github.com/Drixitel">
-    <img src="https://komarev.com/ghpvc/?username=Drixitel&style=for-the-badge&color=blueviolet">
-  </a>
+    <a href="https://www.buymeacoffee.com/drixitel"><img alt="Kofi" title="Kofi" style="width:15%; " src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+    <br>
+    <a href="https://github.com/Drixitel"><img style="width:15%; " src="https://komarev.com/ghpvc/?username=Drixitel&style=for-the-badge&color=blueviolet"></a>
 </p>
+
