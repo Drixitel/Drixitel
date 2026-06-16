@@ -18,7 +18,7 @@
 ## Languages & Tools
 
 
-<p align="left"> <a href="https://github.com/Drixitel"><img src="https://skillicons.dev/icons?i=arduino,github,css,html,vscode,bash,blender,c,cpp,git,gitlab,latex,linux,matlab,powershell,py&perline=8"> </a> </p>
+<p align="left"> <a href="https://github.com/Drixitel"><img src="https://skillicons.dev/icons?i=arduino,github,css,html,vscode,bash,blender,c,cpp,git,gitlab,latex,linux,matlab,powershell,py,pnpm,r&perline=9"> </a> </p>
 
 
 
@@ -30,7 +30,15 @@
 ## The Agenda 
 
 - 🌟 Editing my personal website
+- 🍄 Working on my Typst notes 
 - 🌔 Tinkering with AI/ML
+
+
+<details>
+  <summary>Github Stats</summary>
+  <a href="#">![drixitel's Stats](https://github-readme-stats.vercel.app/api?username=Drixitel&theme=radical&show_icons=true&hide_border=true&count_private=false)</a>
+</details>
+
 
 ### Apoya las obsesiones 🤍
 
