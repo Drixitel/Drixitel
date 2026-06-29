@@ -32,7 +32,7 @@
   <tr>
     <td>
       <details>
-        <summary>Currenlty working on</summary>
+        <summary>Currently working on</summary>
         <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Drixitel&repo=Typst-Notes&theme=great-gatsby&hide_border=true" />
       </details>
     </td>
